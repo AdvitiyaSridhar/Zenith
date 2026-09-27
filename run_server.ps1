@@ -1,0 +1,1 @@
+python -c "import sys; sys.path.insert(0, 'C:\Advi\Collegestuff\Events\SIH\zenith\backend'); import uvicorn; uvicorn.run('zenith_backend.main:app', host='127.0.0.1', port=8000)"
